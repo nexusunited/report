@@ -33,7 +33,7 @@
     </transfer>
 
     <transfer name="StreamConfiguration">
-        <property name="StreamPluginName" type="string"/>
+        <property name="streamPluginName" type="string"/>
         <property name="path" type="string"/>
     </transfer>
 
